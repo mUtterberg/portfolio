@@ -4,12 +4,13 @@ docutils==0.14 # For Pelican
 feedgenerator==1.9 # For Pelican
 Jinja2==2.10 # For Pelican
 lxml==4.2.5 ## For pelican-import
+markdown==3.0.1 # For Pelican
 MarkupSafe==1.0 # For Pelican
 pandoc==1.0.2 ## For pelican-import
-pelican==3.7.1 ## For generating static site files
+pelican==4.0.0 ## For generating static site files
 ply==3.11 # For Pandoc
 Pygments==2.2.0 # For Pelican
 python-dateutil==2.7.5 # For Pelican
 pytz==2018.7 # For Pelican
 six==1.11.0 # For Pelican
-Unidecode==1.0.22 # For Pelican
+Unidecode==.0.22 # For Pelican
