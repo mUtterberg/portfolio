@@ -4,11 +4,11 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Marissa Utterberg'
 SITENAME = 'Utterberg Data & Development'
-SITEURL = ''
-# FAVICON = SITEURL + '/images/favicon.ico'
+SITEURL = 'localhost:8000'
+FAVICON = SITEURL + '/images/favicon.ico'
 COPYRIGHT_YEAR = 2018
 
-THEME = 'html5-dopetropes'
+THEME = 'html5-dopetrope'
 
 PATH = 'content'
 
