@@ -5,4 +5,4 @@ deploy:
   bucket: "S3 Bucket"
   upload-dir: travis-builds
   skip_cleanup: true
-  region: "Bucket region"
+  region: "us-east-1"

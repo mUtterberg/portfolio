@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Marissa Utterberg'
 SITENAME = 'Utterberg Data & Development'
-SITEURL = 'localhost:8000'
+SITEURL = 'http://utterberg-data-dev.s3-website-us-east-1.amazonaws.com'
 FAVICON = SITEURL + '/images/favicon.ico'
 COPYRIGHT_YEAR = 2018
 
