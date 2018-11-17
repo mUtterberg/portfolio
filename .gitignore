@@ -3,3 +3,4 @@ myvenv/
 utterbergdataampdevelopment.*.xml
 __pycache__
 output
+.DS_Store
