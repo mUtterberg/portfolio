@@ -2,7 +2,7 @@ beautifulsoup4==4.6.3 ## For pelican-import
 blinker==1.4 # For Pelican
 docutils==0.14 # For Pelican
 feedgenerator==1.9 # For Pelican
-Jinja2==2.10 # For Pelican
+Jinja2>=2.10.1 # For Pelican
 lxml==4.2.5 ## For pelican-import
 markdown==3.0.1 # For Pelican
 MarkupSafe==1.0 # For Pelican
